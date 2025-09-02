@@ -1,21 +1,30 @@
-## Hi there 👋
-I am Hondana.
+# I am Hondana! 👋
 
-## Kaggle
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
+## About Me
 
-<!--
-**tanadaaa/tanadaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Undergraduate student at The University of Electro-Communications
+- 💻 Majoring in **Computer Science**
+- 🔬 Research focus: Synthetic datasets for tabular data
+- 🤖 Interests: Machine learning, Deep learning, and LLMs
+- 🎮 Nerd: Kaggle, Pokemon, Blue Archive
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competition Achievements
+
+### Kaggle Competitions Expert
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-purple?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tanadaaa)
+
+- 🥈 **Child Mind Institute — Problematic Internet Use** (team) - 51st/3359 
+- 🥈 **Santa 2024 - The Perplexity Permutation Puzzle** (solo) - 59th/1514
+
+### Other Achievements
+
+- **RecSys Challenge 2025** - 9th Place (Academic 2nd)
+
+---
+### Socials
+- [Twitter](https://twitter.com/tanadaaa29)
+
+---

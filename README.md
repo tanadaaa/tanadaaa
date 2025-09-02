@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Hondana.
+
+## Kaggle
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 
 <!--
 **tanadaaa/tanadaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

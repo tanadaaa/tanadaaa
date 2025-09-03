@@ -6,7 +6,6 @@
 - 💻 Majoring in **Computer Science**
 - 🔬 Research focus: Synthetic datasets for tabular data
 - 🤖 Interests: Machine learning, Deep learning, and LLMs
-- 🎮 Nerd: Kaggle, Pokemon, Blue Archive
 
 ---
 

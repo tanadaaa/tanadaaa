@@ -21,7 +21,7 @@
 
 ### Other Achievements
 
-- **RecSys Challenge 2025** - 9th Place (Academic 2nd (Prize Winner))
+- [**RecSys Challenge 2025** - 9th Place (Academic 2nd (Prize Winner))](https://doi.org/10.1145/3758126.3758134)
 
 ---
 ### Socials
